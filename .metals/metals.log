@@ -1,0 +1,270 @@
+2024.08.13 02:47:02 INFO  Database: jdbc:h2:file:C:\Users\abina\OneDrive\Desktop\scala_08\.metals\metals (H2 2.3)
+2024.08.13 02:47:02 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.13 02:47:02 INFO  Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+2024.08.13 02:47:02 INFO  Successfully validated 6 migrations (execution time 00:00.004s)
+2024.08.13 02:47:02 INFO  Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+2024.08.13 02:47:02 INFO  Current version of schema "PUBLIC": << Empty Schema >>
+2024.08.13 02:47:02 INFO  Migrating schema "PUBLIC" to version "1 - Create tables"
+2024.08.13 02:47:02 INFO  Migrating schema "PUBLIC" to version "2 - Server discovery"
+2024.08.13 02:47:02 INFO  Migrating schema "PUBLIC" to version "3 - Jar symbols"
+2024.08.13 02:47:02 INFO  Migrating schema "PUBLIC" to version "4 - Fingerprints"
+2024.08.13 02:47:02 INFO  Migrating schema "PUBLIC" to version "5 - Jar type hierarchy"
+2024.08.13 02:47:02 INFO  Migrating schema "PUBLIC" to version "6 - Delete indices"
+2024.08.13 02:47:02 INFO  Successfully applied 6 migrations to schema "PUBLIC", now at version v6 (execution time 00:00.040s)
+2024.08.13 02:47:03 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 02:47:04 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 02:47:05 INFO  Running List(C:\Users\abina\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\abina\OneDrive\Desktop\scala_08)
+2024.08.13 02:47:05 INFO  Attempting to connect to the build server...
+2024.08.13 02:47:05 INFO  Running BSP server List(C:\Users\abina\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\abina\OneDrive\Desktop\scala_08\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\abina\OneDrive\Desktop\scala_08\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\abina\OneDrive\Desktop\scala_08\.scala-build\ide-envs.json, C:\Users\abina\OneDrive\Desktop\scala_08)
+2024.08.13 02:47:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\abina\OneDrive\Desktop\scala_08\.metals\bsp.trace.json or C:\Users\abina\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 02:47:05 WARN  no build target for: C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala
+2024.08.13 02:47:05 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 02:47:05 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/scala_08/Q1.scala
+2024.08.13 02:47:06 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 02:47:12 INFO  time: Connected to build server in 6.72s
+2024.08.13 02:47:12 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.13 02:47:12 INFO  running doctor check
+2024.08.13 02:47:12 INFO  java targets: scala_08_f4dd477a3a-test, scala_08_f4dd477a3a
+2024.08.13 02:47:12 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 02:47:14 INFO  Database: jdbc:h2:file:C:\Users\abina\.metals\metals (H2 2.3)
+2024.08.13 02:47:14 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.13 02:47:14 INFO  Successfully validated 1 migration (execution time 00:00.003s)
+2024.08.13 02:47:14 INFO  Current version of schema "PUBLIC": 1
+2024.08.13 02:47:14 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.08.13 02:47:17 INFO  time: indexed workspace in 5.34s
+2024.08.13 02:47:17 WARN  no build target for: C:\Users\abina\OneDrive\Desktop\scala_07\Q1.scala
+2024.08.13 02:47:22 INFO  time: compiled scala_08_f4dd477a3a in 9.22s
+2024.08.13 02:47:28 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 02:47:28 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 02:47:28 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/scala_08/Q2.scala
+2024.08.13 02:47:29 INFO  running doctor check
+2024.08.13 02:47:29 INFO  java targets: scala_08_f4dd477a3a-test, scala_08_f4dd477a3a
+2024.08.13 02:47:29 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 02:47:29 INFO  time: compiled scala_08_f4dd477a3a in 0.3s
+2024.08.13 02:47:31 INFO  time: indexed workspace in 2.16s
+2024.08.13 02:47:31 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/scala_08/Q2.scala
+2024.08.13 02:47:47 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 02:47:49 INFO  time: compiled scala_08_f4dd477a3a in 1.45s
+2024.08.13 02:49:39 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/scala_08/Q1.scala
+2024.08.13 02:49:39 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 02:49:39 INFO  time: compiled scala_08_f4dd477a3a in 0.16s
+2024.08.13 02:49:40 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/scala_08/Q1.scala
+2024.08.13 02:49:46 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 02:49:47 INFO  time: compiled scala_08_f4dd477a3a in 1.07s
+2024.08.13 02:51:11 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/scala_08/Q1.scala
+2024.08.13 02:51:13 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 02:51:15 INFO  time: compiled scala_08_f4dd477a3a in 1.47s
+2024.08.13 02:53:13 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/scala_08/Q1.scala
+2024.08.13 02:53:15 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 02:53:15 INFO  time: compiled scala_08_f4dd477a3a in 0.82s
+2024.08.13 02:55:05 INFO  Shutting down server
+2024.08.13 02:55:05 INFO  shutting down Metals
+2024.08.13 02:55:05 INFO  Shut down connection with build server.
+2024.08.13 02:55:05 INFO  Shut down connection with build server.
+2024.08.13 02:55:05 INFO  Shut down connection with build server.
+2024.08.13 02:55:05 INFO  Exiting server
+2024.08.13 03:10:44 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\abina\Downloads\Scala06, C:\Users\abina\OneDrive\Desktop\scala_07, C:\Users\abina\OneDrive\Desktop\scala_08' for client Visual Studio Code 1.92.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@972c271]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@68b3b38c]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@972c271]
+2024.08.13 03:10:45 INFO  Flyway Community Edition 9.22.3 by Redgate
+2024.08.13 03:10:45 INFO  See release notes here: https://rd.gt/416ObMi
+2024.08.13 03:10:45 INFO  
+2024.08.13 03:10:45 INFO  Database: jdbc:h2:file:C:\Users\abina\OneDrive\Desktop\scala_08\.metals\metals (H2 2.3)
+2024.08.13 03:10:45 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.13 03:10:45 INFO  Successfully validated 6 migrations (execution time 00:00.042s)
+2024.08.13 03:10:45 INFO  Current version of schema "PUBLIC": 6
+2024.08.13 03:10:45 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.08.13 03:10:47 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:47 INFO  Database: jdbc:h2:file:C:\Users\abina\Downloads\Scala06\.metals\metals (H2 2.3)
+2024.08.13 03:10:47 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.13 03:10:47 INFO  Database: jdbc:h2:file:C:\Users\abina\OneDrive\Desktop\scala_07\.metals\metals (H2 2.3)
+2024.08.13 03:10:47 INFO  Successfully validated 6 migrations (execution time 00:00.039s)
+2024.08.13 03:10:47 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.13 03:10:47 INFO  Current version of schema "PUBLIC": 6
+2024.08.13 03:10:47 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.08.13 03:10:47 INFO  Successfully validated 6 migrations (execution time 00:00.013s)
+2024.08.13 03:10:47 INFO  Current version of schema "PUBLIC": 6
+2024.08.13 03:10:47 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.08.13 03:10:48 INFO  Attempting to connect to the build server...
+2024.08.13 03:10:48 INFO  Attempting to connect to the build server...
+2024.08.13 03:10:48 INFO  Attempting to connect to the build server...
+2024.08.13 03:10:48 INFO  Running BSP server List(C:\Users\abina\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\abina\Downloads\Scala06\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\abina\Downloads\Scala06\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\abina\Downloads\Scala06\.scala-build\ide-envs.json, C:\Users\abina\Downloads\Scala06)
+2024.08.13 03:10:48 INFO  Running BSP server List(C:\Users\abina\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\abina\OneDrive\Desktop\scala_07\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\abina\OneDrive\Desktop\scala_07\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\abina\OneDrive\Desktop\scala_07\.scala-build\ide-envs.json, C:\Users\abina\OneDrive\Desktop\scala_07)
+2024.08.13 03:10:48 INFO  Running BSP server List(C:\Users\abina\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\abina\OneDrive\Desktop\scala_08\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\abina\OneDrive\Desktop\scala_08\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\abina\OneDrive\Desktop\scala_08\.scala-build\ide-envs.json, C:\Users\abina\OneDrive\Desktop\scala_08)
+2024.08.13 03:10:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\abina\Downloads\Scala06\.metals\bsp.trace.json or C:\Users\abina\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 03:10:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\abina\OneDrive\Desktop\scala_08\.metals\bsp.trace.json or C:\Users\abina\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 03:10:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\abina\OneDrive\Desktop\scala_07\.metals\bsp.trace.json or C:\Users\abina\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 03:10:51 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 13, 2024 3:10:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.08.13 03:10:51 WARN  no build target for: C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala
+Aug 13, 2024 3:10:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Aug 13, 2024 3:10:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2024.08.13 03:10:51 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:51 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:51 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 13, 2024 3:10:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2024.08.13 03:10:51 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:51 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:51 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:51 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:51 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 13, 2024 3:10:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2024.08.13 03:10:51 WARN  no build target for: C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala
+2024.08.13 03:10:51 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:52 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:53 WARN  no build target for: C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala
+2024.08.13 03:10:53 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:53 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:54 WARN  no build target for: C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala
+2024.08.13 03:10:54 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:54 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:56 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:56 WARN  no build target for: C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala
+2024.08.13 03:10:56 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:56 INFO  time: Connected to build server in 8.35s
+2024.08.13 03:10:56 INFO  time: Connected to build server in 8.35s
+2024.08.13 03:10:56 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.13 03:10:56 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.13 03:10:56 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:56 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:56 INFO  time: Connected to build server in 8.43s
+2024.08.13 03:10:56 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.13 03:10:56 INFO  time: Imported build in 0.17s
+2024.08.13 03:10:56 INFO  time: Imported build in 0.17s
+2024.08.13 03:10:56 INFO  time: Imported build in 0.12s
+2024.08.13 03:10:56 INFO  running doctor check
+2024.08.13 03:10:56 INFO  running doctor check
+2024.08.13 03:10:56 INFO  java targets: Scala06_f4dd477a3a, Scala06_f4dd477a3a-test
+2024.08.13 03:10:56 INFO  java targets: scala_07_f4dd477a3a, scala_07_f4dd477a3a-test
+2024.08.13 03:10:56 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:57 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 03:10:58 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:58 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:58 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:58 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:58 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:58 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:58 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:58 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:58 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:58 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:58 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:58 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:58 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:58 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:59 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 03:10:59 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:59 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:59 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:59 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:59 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:59 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:59 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:10:59 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:11:00 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:11:00 WARN  no build target for: C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala
+2024.08.13 03:11:00 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:11:02 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:11:02 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:11:02 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 03:11:02 INFO  running doctor check
+2024.08.13 03:11:02 INFO  java targets: scala_08_f4dd477a3a-test, scala_08_f4dd477a3a
+2024.08.13 03:11:04 INFO  Database: jdbc:h2:file:C:\Users\abina\.metals\metals (H2 2.3)
+2024.08.13 03:11:04 INFO  Database: jdbc:h2:file:C:\Users\abina\.metals\metals (H2 2.3)
+2024.08.13 03:11:04 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.13 03:11:04 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.13 03:11:04 INFO  Successfully validated 1 migration (execution time 00:00.003s)
+2024.08.13 03:11:04 INFO  Successfully validated 1 migration (execution time 00:00.003s)
+2024.08.13 03:11:04 INFO  Current version of schema "PUBLIC": 1
+2024.08.13 03:11:04 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.08.13 03:11:04 INFO  Current version of schema "PUBLIC": 1
+2024.08.13 03:11:04 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.08.13 03:11:05 INFO  time: indexed workspace in 8.42s
+2024.08.13 03:11:05 INFO  time: indexed workspace in 8.42s
+2024.08.13 03:11:05 WARN  no build target for: C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala
+2024.08.13 03:11:05 WARN  no build target for: C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala
+2024.08.13 03:11:05 INFO  Database: jdbc:h2:file:C:\Users\abina\.metals\metals (H2 2.3)
+2024.08.13 03:11:05 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.13 03:11:05 INFO  Successfully validated 1 migration (execution time 00:00.004s)
+2024.08.13 03:11:05 INFO  Current version of schema "PUBLIC": 1
+2024.08.13 03:11:05 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.08.13 03:11:05 INFO  time: indexed workspace in 9.1s
+2024.08.13 03:11:06 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 03:11:06 INFO  time: compiled scala_08_f4dd477a3a in 0.71s
+2024.08.13 03:11:07 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 03:11:07 INFO  time: compiled scala_08_f4dd477a3a in 0.29s
+2024.08.13 03:11:10 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 03:11:10 INFO  time: compiled scala_08_f4dd477a3a in 0.33s
+2024.08.13 03:11:16 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/scala_08/Q1.scala
+2024.08.13 03:11:18 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 03:11:18 INFO  time: compiled scala_08_f4dd477a3a in 0.16s
+2024.08.13 03:11:20 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 03:11:20 INFO  time: compiled scala_08_f4dd477a3a in 0.26s
+Aug 13, 2024 3:11:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didChange",
+  "params": {
+    "textDocument": {
+      "version": 69,
+      "uri": "file:///c%3A/Users/abina/OneDrive/Desktop/scala_08/Q1.scala"
+    },
+    "contentChanges": [
+      {
+        "text": "\r\nobject CaesarCipher {\r\n\r\n  // Encrypt a given text by shifting each letter by a certain number of places\r\n  def encrypt(text: String, shift: Int): String \u003d {\r\n    text.map { char \u003d\u003e\r\n      // Check if the character is a letter\r\n      if (char.isLetter) {\r\n        // Determine the base (starting point) of the alphabet (\u0027a\u0027 for lowercase, \u0027A\u0027 for uppercase)\r\n        val base \u003d if (char.isLower) \u0027a\u0027 else \u0027A\u0027\r\n        // Calculate the new character after applying the shift\r\n        // Modulo 26 ensures the shift wraps around the alphabet\r\n        ((char - base + shift) % 26 + base).toChar\r\n      } else {\r\n        // Non-letter characters are returned as is\r\n        char\r\n      }\r\n    }\r\n  }\r\n\r\n  // Decrypt a given text by reversing the shift applied during encryption\r\n  def decrypt(text: String, shift: Int): String \u003d {\r\n    // Decryption is just encryption with the shift reversed\r\n    encrypt(text, 26 - shift)\r\n  }\r\n\r\n  // A generic function to process the text using a provided operation (either encrypt or decrypt)\r\n  def cipher(text: String, shift: Int, operation: (String, Int) \u003d\u003e String): String \u003d {\r\n    operation(text, shift)\r\n  }\r\n\r\n  // Main function to demonstrate the Caesar Cipher\r\n  def main(args: Array[String]): Unit \u003d {\r\n    val plaintext \u003d ReadLn(\"Enter a string\")\r\n    val shift \u003d 3\r\n\r\n    // Encrypt the plaintext\r\n    val encryptedText \u003d cipher(plaintext, shift, encrypt)\r\n    println(s\"Encrypted: $encryptedText\")\r\n\r\n    // Decrypt the encrypted text\r\n    val decryptedText \u003d cipher(encryptedText, shift, decrypt)\r\n    println(s\"Decrypted: $decryptedText\")\r\n  }\r\n}\r\n"
+      }
+    ]
+  }
+}
+java.lang.IllegalArgumentException: -1 is not a valid offset, allowed [0..1599]
+	at scala.meta.internal.inputs.InternalInput.offsetToLine(InternalInput.scala:54)
+	at scala.meta.internal.inputs.InternalInput.offsetToLine$(InternalInput.scala:48)
+	at scala.meta.inputs.Input$VirtualFile.offsetToLine(Input.scala:86)
+	at scala.meta.inputs.Position$Range.startLine$lzycompute(Position.scala:45)
+	at scala.meta.inputs.Position$Range.startLine(Position.scala:45)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionMetaPosition.toLsp(ScalametaCommonEnrichments.scala:79)
+	at scala.meta.internal.parsing.TokenEditDistance$Diff.$anonfun$toRevised$8(TokenEditDistance.scala:310)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.TokenEditDistance$Diff.toRevised(TokenEditDistance.scala:241)
+	at scala.meta.internal.metals.Diagnostics.toFreshDiagnostic(Diagnostics.scala:283)
+	at scala.meta.internal.metals.Diagnostics.$anonfun$publishDiagnostics$2(Diagnostics.scala:239)
+	at scala.meta.internal.metals.Diagnostics.$anonfun$publishDiagnostics$2$adapted(Diagnostics.scala:238)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:935)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:238)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:203)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:138)
+	at scala.meta.internal.metals.MetalsLspService.didChange(MetalsLspService.scala:870)
+	at scala.meta.internal.metals.ProjectMetalsLspService.didChange(ProjectMetalsLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.didChange(WorkspaceLspService.scala:407)
+	at scala.meta.metals.lsp.DelegatingScalaService.didChange(DelegatingScalaService.scala:50)
+	at jdk.internal.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.08.13 03:11:23 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 03:11:23 INFO  time: compiled scala_08_f4dd477a3a in 0.2s
+2024.08.13 03:11:25 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 03:11:25 INFO  time: compiled scala_08_f4dd477a3a in 0.25s
+2024.08.13 03:11:32 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/scala_08/Q1.scala
