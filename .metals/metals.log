@@ -268,3 +268,182 @@ java.lang.IllegalArgumentException: -1 is not a valid offset, allowed [0..1599]
 2024.08.13 03:11:25 INFO  compiling scala_08_f4dd477a3a (1 scala source)
 2024.08.13 03:11:25 INFO  time: compiled scala_08_f4dd477a3a in 0.25s
 2024.08.13 03:11:32 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/scala_08/Q1.scala
+2024.08.13 07:32:22 INFO  Shutting down server
+2024.08.13 07:32:22 INFO  shutting down Metals
+2024.08.13 07:32:22 INFO  Shut down connection with build server.
+2024.08.13 07:32:22 INFO  Shut down connection with build server.
+2024.08.13 07:32:23 INFO  Shut down connection with build server.
+2024.08.13 07:32:22 INFO  Exiting server
+2024.08.13 08:46:23 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\abina\Downloads\Scala06, C:\Users\abina\OneDrive\Desktop\scala_07, C:\Users\abina\OneDrive\Desktop\scala_08' for client Visual Studio Code 1.92.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@46482756]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@13856c3a]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@46482756]
+2024.08.13 08:46:24 INFO  Flyway Community Edition 9.22.3 by Redgate
+2024.08.13 08:46:24 INFO  See release notes here: https://rd.gt/416ObMi
+2024.08.13 08:46:24 INFO  
+2024.08.13 08:46:24 INFO  Database: jdbc:h2:file:C:\Users\abina\OneDrive\Desktop\scala_08\.metals\metals (H2 2.3)
+2024.08.13 08:46:24 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.13 08:46:24 INFO  Successfully validated 6 migrations (execution time 00:00.051s)
+2024.08.13 08:46:24 INFO  Current version of schema "PUBLIC": 6
+2024.08.13 08:46:24 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.08.13 08:46:26 INFO  no build target found for C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 08:46:26 INFO  Database: jdbc:h2:file:C:\Users\abina\OneDrive\Desktop\scala_07\.metals\metals (H2 2.3)
+2024.08.13 08:46:26 INFO  Database: jdbc:h2:file:C:\Users\abina\Downloads\Scala06\.metals\metals (H2 2.3)
+2024.08.13 08:46:26 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.13 08:46:26 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.13 08:46:26 INFO  Successfully validated 6 migrations (execution time 00:00.009s)
+2024.08.13 08:46:26 INFO  Successfully validated 6 migrations (execution time 00:00.009s)
+2024.08.13 08:46:26 INFO  Current version of schema "PUBLIC": 6
+2024.08.13 08:46:26 INFO  Current version of schema "PUBLIC": 6
+2024.08.13 08:46:26 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.08.13 08:46:26 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.08.13 08:46:27 INFO  Attempting to connect to the build server...
+2024.08.13 08:46:27 INFO  Attempting to connect to the build server...
+2024.08.13 08:46:27 INFO  Attempting to connect to the build server...
+2024.08.13 08:46:27 INFO  Running BSP server List(C:\Users\abina\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\abina\OneDrive\Desktop\scala_07\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\abina\OneDrive\Desktop\scala_07\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\abina\OneDrive\Desktop\scala_07\.scala-build\ide-envs.json, C:\Users\abina\OneDrive\Desktop\scala_07)
+2024.08.13 08:46:27 INFO  Running BSP server List(C:\Users\abina\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\abina\Downloads\Scala06\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\abina\Downloads\Scala06\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\abina\Downloads\Scala06\.scala-build\ide-envs.json, C:\Users\abina\Downloads\Scala06)
+2024.08.13 08:46:27 INFO  Running BSP server List(C:\Users\abina\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\abina\OneDrive\Desktop\scala_08\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\abina\OneDrive\Desktop\scala_08\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\abina\OneDrive\Desktop\scala_08\.scala-build\ide-envs.json, C:\Users\abina\OneDrive\Desktop\scala_08)
+2024.08.13 08:46:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\abina\Downloads\Scala06\.metals\bsp.trace.json or C:\Users\abina\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 08:46:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\abina\OneDrive\Desktop\scala_08\.metals\bsp.trace.json or C:\Users\abina\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 08:46:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\abina\OneDrive\Desktop\scala_07\.metals\bsp.trace.json or C:\Users\abina\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 08:46:34 INFO  BSP server: Starting compilation server
+2024.08.13 08:46:34 INFO  BSP server: Starting compilation server
+2024.08.13 08:46:34 INFO  BSP server: Starting compilation server
+2024.08.13 08:46:50 INFO  time: Connected to build server in 22s
+2024.08.13 08:46:50 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.13 08:46:50 INFO  time: Connected to build server in 22s
+2024.08.13 08:46:50 INFO  time: Connected to build server in 22s
+2024.08.13 08:46:50 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.13 08:46:50 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.13 08:46:50 INFO  time: Imported build in 0.24s
+2024.08.13 08:46:50 INFO  time: Imported build in 0.24s
+2024.08.13 08:46:50 INFO  time: Imported build in 0.27s
+2024.08.13 08:46:50 INFO  running doctor check
+2024.08.13 08:46:50 INFO  running doctor check
+2024.08.13 08:46:50 INFO  running doctor check
+2024.08.13 08:46:50 INFO  java targets: Scala06_f4dd477a3a, Scala06_f4dd477a3a-test
+2024.08.13 08:46:50 INFO  java targets: scala_08_f4dd477a3a-test, scala_08_f4dd477a3a
+2024.08.13 08:46:50 INFO  java targets: scala_07_f4dd477a3a, scala_07_f4dd477a3a-test
+2024.08.13 08:46:55 INFO  Database: jdbc:h2:file:C:\Users\abina\.metals\metals (H2 2.3)
+2024.08.13 08:46:55 INFO  Database: jdbc:h2:file:C:\Users\abina\.metals\metals (H2 2.3)
+2024.08.13 08:46:55 INFO  Database: jdbc:h2:file:C:\Users\abina\.metals\metals (H2 2.3)
+2024.08.13 08:46:55 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.13 08:46:55 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.13 08:46:55 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.13 08:46:55 INFO  Successfully validated 1 migration (execution time 00:00.003s)
+2024.08.13 08:46:55 INFO  Successfully validated 1 migration (execution time 00:00.003s)
+2024.08.13 08:46:55 INFO  Successfully validated 1 migration (execution time 00:00.004s)
+2024.08.13 08:46:55 INFO  Current version of schema "PUBLIC": 1
+2024.08.13 08:46:55 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.08.13 08:46:55 INFO  Current version of schema "PUBLIC": 1
+2024.08.13 08:46:55 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.08.13 08:46:55 INFO  Current version of schema "PUBLIC": 1
+2024.08.13 08:46:55 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.08.13 08:46:57 INFO  time: indexed workspace in 6.8s
+2024.08.13 08:46:57 INFO  time: indexed workspace in 6.8s
+2024.08.13 08:46:57 INFO  time: indexed workspace in 6.8s
+2024.08.13 08:46:57 WARN  no build target for: C:\Users\abina\OneDrive\Desktop\scala_08\Q2.scala
+2024.08.13 08:46:57 WARN  no build target for: C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala
+2024.08.13 08:46:57 WARN  no build target for: C:\Users\abina\OneDrive\Desktop\scala_08\Q2.scala
+2024.08.13 08:46:57 WARN  no build target for: C:\Users\abina\OneDrive\Desktop\scala_08\Q1.scala
+2024.08.13 08:50:36 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 08:50:42 INFO  time: compiled scala_08_f4dd477a3a in 6.56s
+2024.08.13 08:51:23 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 08:51:24 INFO  time: compiled scala_08_f4dd477a3a in 1.29s
+2024.08.13 08:52:13 INFO  compiling scala_07_f4dd477a3a (1 scala source)
+2024.08.13 08:52:15 INFO  time: compiled scala_07_f4dd477a3a in 1.9s
+Aug 13, 2024 8:52:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 186
+2024.08.13 08:53:38 INFO  compiling scala_07_f4dd477a3a (1 scala source)
+2024.08.13 08:53:39 INFO  time: compiled scala_07_f4dd477a3a in 1.21s
+Aug 13, 2024 8:53:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 236
+2024.08.13 08:54:01 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 08:54:01 INFO  time: compiled scala_08_f4dd477a3a in 0.74s
+2024.08.13 08:54:08 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 08:54:08 INFO  time: compiled scala_08_f4dd477a3a in 0.64s
+2024.08.13 08:54:14 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 08:54:14 INFO  time: compiled scala_08_f4dd477a3a in 0.64s
+2024.08.13 08:54:20 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 08:54:20 INFO  time: compiled scala_08_f4dd477a3a in 0.55s
+2024.08.13 08:54:26 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 08:54:26 INFO  time: compiled scala_08_f4dd477a3a in 0.53s
+2024.08.13 08:54:30 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 08:54:30 INFO  time: compiled scala_08_f4dd477a3a in 0.5s
+2024.08.13 08:54:34 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 08:54:34 INFO  time: compiled scala_08_f4dd477a3a in 0.64s
+2024.08.13 08:54:40 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 08:54:40 INFO  time: compiled scala_08_f4dd477a3a in 0.5s
+2024.08.13 08:54:46 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 08:54:46 INFO  time: compiled scala_08_f4dd477a3a in 0.52s
+2024.08.13 08:54:50 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 08:54:50 INFO  time: compiled scala_08_f4dd477a3a in 0.51s
+2024.08.13 08:54:54 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 08:54:54 INFO  time: compiled scala_08_f4dd477a3a in 0.48s
+2024.08.13 08:54:58 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 08:54:58 INFO  time: compiled scala_08_f4dd477a3a in 0.43s
+2024.08.13 08:55:13 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 08:55:13 INFO  time: compiled scala_08_f4dd477a3a in 0.45s
+2024.08.13 08:56:35 INFO  compiling scala_07_f4dd477a3a (1 scala source)
+2024.08.13 08:56:35 INFO  time: compiled scala_07_f4dd477a3a in 0.46s
+2024.08.13 08:56:46 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 08:56:46 INFO  time: compiled scala_08_f4dd477a3a in 0.63s
+2024.08.13 08:56:52 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 08:56:53 INFO  time: compiled scala_08_f4dd477a3a in 1.03s
+2024.08.13 08:57:02 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 08:57:02 INFO  time: compiled scala_08_f4dd477a3a in 0.42s
+2024.08.13 08:57:07 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 08:57:07 INFO  time: compiled scala_08_f4dd477a3a in 0.46s
+2024.08.13 09:01:08 WARN  Could not find semantic tokens for: file:///C:/Users/abina/OneDrive/Desktop/scala_08/Q2.scala
+2024.08.13 09:01:10 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:01:10 INFO  time: compiled scala_08_f4dd477a3a in 0.64s
+2024.08.13 09:01:43 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:01:43 INFO  time: compiled scala_08_f4dd477a3a in 0.23s
+2024.08.13 09:01:49 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:01:49 INFO  time: compiled scala_08_f4dd477a3a in 0.24s
+Aug 13, 2024 9:01:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 836
+2024.08.13 09:01:53 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:01:53 INFO  time: compiled scala_08_f4dd477a3a in 0.24s
+2024.08.13 09:01:57 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:01:57 INFO  time: compiled scala_08_f4dd477a3a in 0.17s
+2024.08.13 09:02:00 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:02:00 INFO  time: compiled scala_08_f4dd477a3a in 0.2s
+2024.08.13 09:02:02 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:02:02 INFO  time: compiled scala_08_f4dd477a3a in 0.17s
+2024.08.13 09:02:14 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:02:14 INFO  time: compiled scala_08_f4dd477a3a in 0.14s
+2024.08.13 09:02:14 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:02:15 INFO  time: compiled scala_08_f4dd477a3a in 0.15s
+2024.08.13 09:02:24 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:02:24 INFO  time: compiled scala_08_f4dd477a3a in 0.47s
+2024.08.13 09:02:32 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:02:32 INFO  time: compiled scala_08_f4dd477a3a in 0.38s
+2024.08.13 09:02:44 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:02:44 INFO  time: compiled scala_08_f4dd477a3a in 0.37s
+Aug 13, 2024 9:02:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1026
+2024.08.13 09:02:52 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:02:52 INFO  time: compiled scala_08_f4dd477a3a in 0.35s
+2024.08.13 09:02:55 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:02:55 INFO  time: compiled scala_08_f4dd477a3a in 0.38s
+2024.08.13 09:03:22 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:03:22 INFO  time: compiled scala_08_f4dd477a3a in 0.4s
+2024.08.13 09:03:25 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:03:25 INFO  time: compiled scala_08_f4dd477a3a in 0.32s
+2024.08.13 09:03:29 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:03:29 INFO  time: compiled scala_08_f4dd477a3a in 0.45s
+2024.08.13 09:03:35 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:03:35 INFO  time: compiled scala_08_f4dd477a3a in 90ms
+2024.08.13 09:03:41 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:03:41 INFO  time: compiled scala_08_f4dd477a3a in 0.41s
+2024.08.13 09:03:44 WARN  Could not load snapshot text for C:\Users\abina\OneDrive\Desktop\scala_08\Q2.scala
+2024.08.13 09:03:44 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:03:44 INFO  time: compiled scala_08_f4dd477a3a in 88ms
+2024.08.13 09:03:44 WARN  Could not load snapshot text for C:\Users\abina\OneDrive\Desktop\scala_08\Q2.scala
+2024.08.13 09:03:47 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:03:47 INFO  time: compiled scala_08_f4dd477a3a in 0.35s
+2024.08.13 09:03:55 INFO  compiling scala_08_f4dd477a3a (1 scala source)
+2024.08.13 09:03:55 INFO  time: compiled scala_08_f4dd477a3a in 0.35s

@@ -1,4 +1,4 @@
-object multiple_checker{
+error id: file:///C:/Users/abina/OneDrive/Desktop/scala_08/Q2.scala:[7..8) in Input.VirtualFile("file:///C:/Users/abina/OneDrive/Desktop/scala_08/Q2.scala", "object {
     def main(args: Array[String]): Unit = {
         val multipleOf_three: Int => Boolean = (x: Int) => x % 3 == 0
         val multipleOf_five: Int => Boolean = (x: Int) => x % 5 == 0
@@ -16,4 +16,11 @@ object multiple_checker{
         println(result)
         
     }
-}
+}")
+file:///C:/Users/abina/OneDrive/Desktop/scala_08/Q2.scala
+file:///C:/Users/abina/OneDrive/Desktop/scala_08/Q2.scala:1: error: expected identifier; obtained lbrace
+object {
+       ^
+#### Short summary: 
+
+expected identifier; obtained lbrace
